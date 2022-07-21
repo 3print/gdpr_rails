@@ -19,4 +19,3 @@ gem 'jbuilder'
 gem "capybara", "~> 2.18"
 gem 'coveralls', require: false
 gem 'database_cleaner'
-gem "paperclip"
