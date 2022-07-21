@@ -7,7 +7,7 @@ PATH
       groupdate (= 4.0.0)
       rails (>= 5.1.4, < 7)
       redcarpet
-      rubyzip (>= 1.0.0, < 2)
+      rubyzip (>= 1.0.0, < 3)
       will_paginate
 
 GEM
